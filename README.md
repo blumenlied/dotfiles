@@ -1,6 +1,6 @@
 # blumenlied dotfiles
 in case my machine breaks
 
-![image](https://github.com/blumenlied/dotfiles/assets/130287671/5e44510d-f779-4591-bf6a-73344af6f98a)
+![image](https://github.com/blumenlied/dotfiles/assets/130287671/a63dfdca-704e-48bf-aaf4-9d2f848d99f8)
 
 based on [SolDoesTech's config](https://github.com/SolDoesTech/hyprland)
